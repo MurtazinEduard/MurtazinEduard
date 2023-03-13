@@ -24,29 +24,24 @@
   - i love it the most because it makes me nostalgic
   - STACK: React, Redux(no tool-kit), Sass, axios, redux-thunk, react-bootstrap, json-server
 ## Languages and Tools:
-- [X] JavaScript/TypeScript
-- [X] Html5 / CSS3
-- [X] React18
-- [X] Next.js
-- [X] MobX
-- [X] Vite
-- [X] MUI
-- [X] Axios
-- [X] RTK Query
-- [X] Jest(testing)
-- [X] Three.js
-- [X] React-Three-Fiber
-- [X] GSAP(animations)
-- [X] react-transition-group
-- 
-- [X] Vue3
-- [X] VueX
-- [X] Quasar
-- 
-- [X] Node.js
-- [X] Express.js
-- [X] MongoDB
-- [X] Bcrypt
-- [X] Cors
-- [X] Mongoose
-- [X] Jsonwebtoken
+| React | Vue | Back |
+| --- | --- | ---|
+| JavaScript/TypeScript | Vue3 | Node.js |
+| Html5 / CSS3 | VueX | Express.js |
+| React18 | Quasar | MongoDB |
+| Next.js | Vuetify | Bcrypt | 
+| MobX | Vue Router | Cors |
+| Vite | | Mongoose |
+| MUI | | Jsonwebtoken |
+| Axios | |
+| RTK Query | | |
+| Jest | | | 
+| Three.js | |  | 
+| React-Three-Fiber | | |
+| GSAP(animations) | | |
+| react-transition-group | | |
+
+
+
+
+
