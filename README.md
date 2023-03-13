@@ -1,7 +1,6 @@
-# Hey there! 👋 I’m Edward Murtazin
-[![Profile badge](https://www.codewars.com/users/MurtazinEduard/badges/large)](https://www.codewars.com/users/MurtazinEduard)
-# I'm JavaScript developer
+# Hey there! 👋 I’m Edward Murtazin JavaScript developer
 ## ⚡️ A Few Quick Facts
+[![Profile badge](https://www.codewars.com/users/MurtazinEduard/badges/large)](https://www.codewars.com/users/MurtazinEduard)
 - 23 years Old 🧍‍♂️
 - 3 years in programming
 - English B1
