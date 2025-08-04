@@ -1,16 +1,15 @@
 # Hey there! 👋 I’m Edward Murtazin JavaScript developer
 ## ⚡️ A Few Quick Facts
 [![Profile badge](https://www.codewars.com/users/MurtazinEduard/badges/large)](https://www.codewars.com/users/MurtazinEduard)
-- 23 years Old 🧍‍♂️
-- 3 years in programming
+- 26 years Old 🧍‍♂️
+- 5+ years in programming
 - English B1
 - Eternal Student🎓
-- Location Is Nizhnevartovsk🏠
 - Ready to Relocate✌️
-## My best project: ([Link](https://github.com/MurtazinEduard/3d-russian-car))
+## My best project 2023: ([Link](https://github.com/MurtazinEduard/3d-russian-car))
 ![3d-configurator (1)](https://user-images.githubusercontent.com/86109245/224107453-7948d2a7-0291-430c-9492-9a449e684791.gif)
 ## Other projects:
-- ###  ROSBURGER
+- ###  ROSBURGER 2022
   - [Link](https://github.com/MurtazinEduard/rosburger)
   - Fullstack app for ordering burgers online
   - STACK: React, Redux, Sass, Express, MongoDB
